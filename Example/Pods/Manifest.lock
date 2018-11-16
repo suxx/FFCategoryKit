@@ -1,0 +1,16 @@
+PODS:
+  - FFCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - FFCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFCategoryKit: 41930a752243c932ce56634d501ad8c5bcdb22d6
+
+PODFILE CHECKSUM: d6820da1390ffa7d696fa5e3190a7858ead4bec8
+
+COCOAPODS: 1.5.2
